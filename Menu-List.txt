@@ -1,111 +1,110 @@
-	Aavakaaya
-    Arab salad
-    Baba ghanoush
-    Biryani
-    Borscht
-    Broccoli slaw
-    Cabbage roll
-    Caesar salad
-    Caldo verde
-    Caprese salad
-    Carrot salad
-    Ciambotta
-    Chile relleno
-    Chiles en nogada
-    Coleslaw
-    Collard liquor
-    Confit byaldi
-    Corn chowder
-    Crudités
-    Cucumber soup
-    Ema datshi
-    Főzelék
-    Fried aubergine
-    Fried cauliflower
-    Ful medames
-    Gado-gado
-    Garden salad
-    Ghormeh sabzi
-    Giardiniera
-    Glasswort salad
-    Goma-ae
-    Greek salad
-    Green papaya salad
-    Green bean casserole
-    Guacamole
-    Hodge-Podge (soup)
-    İmam bayıldı
-    Israeli salad
-    Jalapeño popper
-    Janssons frestelse
-    Karedok
-    Kimchi
-    Kinilnat
-    Kosambari
-    Kuluban
-    Lawar (food)
-    Lecsó
-    Lettuce sandwich
-    Maple slaw
-    Mashed pumpkin
-    Mattar paneer
-    Meigan cai
-    Mixed pickle
-    Onion ring
-    Pao cai
-    Pasta primavera
-    Pea soup
-    Piccalilli
-    Pickled cucumber
-    Pico de gallo
-    Potato salad
-    Ratatouille
-    Rojak
-    Salad Niçoise
-    Salsa (sauce)
-    Samlar machu
-    Sauerkraut
-    Senate bean soup
-    Sicilian orange salad
-    Sorrel soup
-    Spinach salad
-    Spreewald gherkins
-    Stuffed peppers
-    Stuffed zucchini
-    Suan cai
-    Sweet potato pie
-    Sweet sour and spicy vegetable gravy
-    Tabbouleh
-    Texas caviar
-    Thai salads
-    Tianjin preserved vegetable
-    Tomato omelette
-    Tomato soup
-    Turnip cake
-    Ulam (salad)
-    Urap
-    Utan
-    Vegetable chips
-    Vegetable sandwich
-    Vegetable tarkari
-    Vegetarian chili
-    Vichyssoise
-    Waldorf salad
-    Zha cai
-    Aloo gobi
-    Baingan bharta
-    Bhurta
-    Far far
-    Fried cauliflower
-    Gobi manchurian [5]
-    Karela nu shak
-    Poriyal
-    Sarson da saag
-    Stuffed peppers
-    Stuffed zucchini
-    Tamate ka kut
-    Theeyal
-    Thoran
-    Undhiyu
-    Vegetable sandwich
-
+Aavakaaya
+Arab salad
+Baba ghanoush
+Biryani
+Borscht
+Broccoli slaw
+Cabbage roll
+Caesar salad
+Caldo verde
+Caprese salad
+Carrot salad
+Ciambotta
+Chile relleno
+Chiles en nogada
+Coleslaw
+Collard liquor
+Confit byaldi
+Corn chowder
+Crudités
+Cucumber soup
+Ema datshi
+Főzelék
+Fried aubergine
+Fried cauliflower
+Ful medames
+Gado-gado
+Garden salad
+Ghormeh sabzi
+Giardiniera
+Glasswort salad
+Goma-ae
+Greek salad
+Green papaya salad
+Green bean casserole
+Guacamole
+Hodge-Podge (soup)
+İmam bayıldı
+Israeli salad
+Jalapeño popper
+Janssons frestelse
+Karedok
+Kimchi
+Kinilnat
+Kosambari
+Kuluban
+Lawar
+Lecsó
+Lettuce sandwich
+Maple slaw
+Mashed pumpkin
+Mattar paneer
+Meigan cai
+Mixed pickle
+Onion ring
+Pao cai
+Pasta primavera
+Pea soup
+Piccalilli
+Pickled cucumber
+Pico de gallo
+Potato salad
+Ratatouille
+Rojak
+Salad Niçoise
+Salsa (sauce)
+Samlar machu
+Sauerkraut
+Senate bean soup
+Sicilian orange salad
+Sorrel soup
+Spinach salad
+Spreewald gherkins
+Stuffed peppers
+Stuffed zucchini
+Suan cai
+Sweet potato pie
+Sweet sour and spicy vegetable gravy
+Tabbouleh
+Texas caviar
+Thai salads
+Tianjin preserved vegetable
+Tomato omelette
+Tomato soup
+Turnip cake
+Ulam (salad)
+Urap
+Utan
+Vegetable chips
+Vegetable sandwich
+Vegetable tarkari
+Vegetarian chili
+Vichyssoise
+Waldorf salad
+Zha cai
+Aloo gobi
+Baingan bharta
+Bhurta
+Far far
+Fried cauliflower
+Gobi manchurian
+Karela nu shak
+Poriyal
+Sarson da saag
+Stuffed peppers
+Stuffed zucchini
+Tamate ka kut
+Theeyal
+Thoran
+Undhiyu
+Vegetable sandwich
