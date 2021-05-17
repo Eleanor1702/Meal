@@ -1,4 +1,4 @@
-package org.eleanor;
+package dev.eleanor.reciepegenerator;
 
 import java.io.IOException;
 import java.io.FileReader;
